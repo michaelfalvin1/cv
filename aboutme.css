@@ -1,0 +1,29 @@
+h1{
+    color: aqua;
+}
+
+h4{
+
+    color: chartreuse;
+
+}
+
+li{
+
+    color:rgb(100,200,200);
+border-color: rosybrown;
+
+
+border-width: 5px;
+
+border-style: solid;
+    
+
+}
+
+body{
+
+    background-image: url(./images/fall-gfce467d6f_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
